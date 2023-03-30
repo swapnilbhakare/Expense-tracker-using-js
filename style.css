@@ -1,0 +1,22 @@
+body{
+    background-color: #262626;
+    color: #fff;
+}
+#expensesList li{
+    height:50px !important;
+    font-size: 20px;
+}
+
+.deleteBtn{
+    position: absolute;
+    right: 0;
+ 
+}
+.editBtn{
+  
+
+    
+    position: absolute;
+    margin-right:90px;
+    right: 0;
+}
